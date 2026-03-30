@@ -1,4 +1,4 @@
-package dev2;
+package dev1;
 
 public class file2 
 {
